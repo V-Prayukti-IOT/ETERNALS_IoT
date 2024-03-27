@@ -1,0 +1,19 @@
+
+                                           COMPONENTS
+1. Node MCU  1 x pcs 
+2.LED 3 x pcs
+3.Buzzer 2 x pcs
+4.connecting Wires (As Required)
+5.Gas Sensor MQ-2 1 x pcs
+6. Fan 1 x pcs
+7.LCD display 1x pcs
+8.I2C Module
+                                           TOOLS USED
+1.Arduino IDE
+2.BLYNK
+3.ThingSpeak
+4.MatLab
+
+
+
+       
